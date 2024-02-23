@@ -1,0 +1,15 @@
+@mixin flex($align: unset, $justify: unset, $row: row, $gap: unset) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  gap: $gap;
+  flex-direction: $row;
+}
+
+@mixin center() {
+  @include flex(center, center);
+}
+
+@mixin trn($s: 0.2s) {
+  transition: $s ease-in-out;
+}

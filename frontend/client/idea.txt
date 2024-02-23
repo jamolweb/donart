@@ -1,0 +1,21 @@
+24.08.2023 / figma toyorlandi
+27.08.2023 / navbar zotildi
+25.08.2023 / main kismi va footer zotildi
+26.08.2023 / betla zotldi va ulandi
+15.09.2023 / product la id ga bolindi va ozgartirildi
+16.09.2023 / backent-ulandi va slider sotildi,
+18.09.2023 / kategory va resposive taxlandi
+19.09.2023 / kupit srazu modali zotildi
+24.09.2023 / product api dan galdi
+27.09.2023 / modal voyti:zaregistrirovatsa zotildi
+29.09.2023 / product in recomend zotildi
+30.09.2023 / registratsiya zotildi desktop
+2.10.2023 / registratsiya zotildi reponsive : card reponsive zotildi
+3.10.2023 / product in zotildi
+4.10.2023 / xarakteristik zotildi
+7.10.2023 / loading zotildi  : swiper banner api dan galib zotildi
+11.10.2023 / karzina context
+13.10.2023 / karzina product style
+14.10.2023 / favorites
+17.10.2023 / favorites styles
+18 10.2023 / karzina-favorites responsive planshet acha

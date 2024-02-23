@@ -1,0 +1,48 @@
+
+@media screen and (max-width : 1000px) {
+  .header-end-buttons {
+    display: none;
+  }
+
+  .header-end-button button p {
+    display: none;
+    
+  }
+
+  .header-top__logo {
+    display: flex;
+  }
+
+  .header-end{
+    display: none;
+  }
+
+  .header-box-menu{
+    display: none;
+  }
+
+  .header-top__coll {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1001px){
+  .header-end-button-responsive {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-menu-name {
+    display: none;
+  }
+
+  .header-center__logo {
+    font-size: 30px;
+  }
+
+  .header-center__col__responsive {
+    display: none;
+  }
+}
+

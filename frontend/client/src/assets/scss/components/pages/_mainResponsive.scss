@@ -1,0 +1,151 @@
+@media screen and (max-width: 1600px) {
+    .banner-block {
+        display: none;
+    }
+}
+
+@media screen and (max-width:1130px) {
+    .banner-block {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .banner2 {
+        display: none !important;
+    }
+}
+
+
+@media screen and (max-width:760px) {
+    .card {
+        width: 217px !important;
+    }
+
+    .card-img img {
+        width: 140px !important;
+        height: 140px !important;
+    }
+
+    .card-menu h1 {
+        font-size: 12px !important;
+    }
+
+    .card-menu h2 {
+        font-size: 18px !important;
+    }
+
+    .card-menu-title-item {
+        height: 30px !important;
+        font-size: 10px;
+    }
+
+    .card-menu h4 {
+        font-size: 10px;
+    }
+
+    .buyNow {
+        display: none;
+    }
+
+    .basket {
+        width: 200px;
+    }
+
+    .basket p {
+        display: flex !important;
+    }
+
+}
+
+@media screen and (max-width:440px) {
+    .card {
+        width: 190px !important;
+    }
+
+    .card-img img {
+        width: 100px !important;
+        height: 100px !important;
+    }
+
+    .card-menu h1 {
+        font-size: 12px !important;
+    }
+
+    .card-menu h2 {
+        font-size: 18px !important;
+    }
+
+    .card-menu-title-item {
+        height: 30px !important;
+        font-size: 10px;
+    }
+
+    .card-menu h4 {
+        font-size: 10px;
+    }
+
+    .buyNow {
+        display: none;
+    }
+
+    .basket {
+        width: 200px;
+    }
+
+    .basket p {
+        display: flex !important;
+    }
+
+
+}
+
+
+@media screen and (max-width:1070px) {
+    .action-blockkk {
+        width: 470px !important;
+    }
+
+    .action-blockkk img {
+        width: 100% !important;
+        height: 200px !important;
+    }
+}
+
+@media screen and (max-width:760px) {
+    .action-blockkk {
+        width: 330px !important;
+    }
+
+    .action-blockkk img {
+        width: 290px !important;
+        height: 170px !important;
+    }
+
+    .action-blockkk h1 {
+        font-size: 16px !important;
+    }
+
+    .action-blockkk p {
+        font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width:440px) {
+    .action-blockkk {
+        width: 300px !important;
+    }
+
+    .action-blockkk img {
+        width: 260px !important;
+        height: 150px !important;
+    }
+
+    .action-blockkk h1 {
+        font-size: 14px !important;
+    }
+
+    .action-blockkk p {
+        font-size: 10px !important;
+    }
+}

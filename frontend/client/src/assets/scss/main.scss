@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+@import './globals/variables';
+@import './globals/mixins';
+@import './globals/normalize';
+@import './components/header';
+@import './components/main';
+@import './components/footer';
+
+@import './components/pages/comparison';
+@import './components/pages/favorites';
+@import './components/pages/headerResponsive';
+@import './components/pages/mainResponsive';
+@import './components/pages/karzina';
+@import './components/pages/location';
+@import './components/pages/sales';
+@import './components/pages/ResponsiveMenu';
+@import './components/pages/footerResponsive';
+@import './components/pages/productIn';
+@import './components/pages/register'
